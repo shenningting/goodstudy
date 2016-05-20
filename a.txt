@@ -1,8 +1,2 @@
-<<<<<<< HEAD
- ni hao bawei and world
-
-=======
-hello world  and bawei
->>>>>>> feature1
 ni hao bawei and world
 
